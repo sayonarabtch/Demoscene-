@@ -1,5 +1,10 @@
 void img() {
- 
+  
+    jolka = loadImage("happynewyear/jolka.png");
+    zvezda = loadImage("happynewyear/zvezda.png");
+    sugrob = loadImage("happynewyear/sugrob.png");
+    sprite = loadImage("data/sprite.png");
+    
     hny[0]  = loadImage("happynewyear/00.gif");
     hny[1]  = loadImage("happynewyear/10.gif");
     hny[2]  = loadImage("happynewyear/20.gif");
